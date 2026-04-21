@@ -1,0 +1,21 @@
+//
+// Copyright (c) 2024, XetoBase
+// All Rights Reserved
+//
+// History:
+//   2 Apr 2024  Brian Frank  Creation
+//
+
+pragma: Lib <
+  doc: "XetoBase Github Demo"
+  version: "0.0.1"
+  depends: {
+    { lib: "sys" }
+  }
+  org: {
+    dis: "XetoBase"
+    uri: "https://xetobase.com/"
+  }
+>
+
+

@@ -1,0 +1,4 @@
+GithubDictExample : Dict {
+    ghDict
+    dis: "This is a github example dict"
+}
